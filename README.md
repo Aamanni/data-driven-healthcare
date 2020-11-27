@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Healthcare is going through a major transition and facing huge challenges, e.g. because of aging population. Better utilization of data in targetting the scarce healthcare resources could lead to huge savings for the society and to better quality of life for the people and patients. 
+Healthcare is going through a transition and facing challenges, e.g. because of aging population. Insights from data help in targetting the scarce healthcare resources and lead to huge savings for the society and to better quality of life for people. 
 
 
 ## Background
